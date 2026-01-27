@@ -6,3 +6,6 @@
 !requirements.txt
 !*.ipynb 
 !*.py 
+!*/ 
+.venv
+venv_bert_tf 
